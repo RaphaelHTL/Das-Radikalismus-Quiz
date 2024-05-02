@@ -1,0 +1,108 @@
+body {
+  width: 100%; 
+  height: 100vh; 
+  font-family: "League Spartan ", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 100;
+  font-style: bold;
+  font-variation-settings: "wdth" 100;
+  background-image: linear-gradient(#6E5C0D 10%, black);
+
+}
+#Radnavbar
+{
+  background-color: black;
+  border: 2px solid #F6CD1D;
+ margin-bottom: .8%;
+ padding: 0%;
+
+
+}
+#QLabel
+{
+  background-color:#F6CD1D ;
+  text-align: center;
+  padding: 2.5%;
+ margin-bottom: 2%;
+color: black;
+}
+.Qbtn
+{
+  background-color: #F6CD1D;
+  color: black;
+  padding: 5%;
+  margin: 2%;
+ 
+}
+.icon
+{
+  color: black;
+  background-color: #F6CD1D;
+}
+.list-group-item {
+  margin: auto;
+}
+
+.lb {
+  color: black;
+  background-color: #F6CD1D;
+  border-color: black;
+  border: 2px solid;
+  margin: 1.5%;
+  padding: 5%;
+}
+
+h2 {
+  font-family: "League Spartan", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 900;
+  font-style: bold;
+  
+}
+
+#Themabuttons {
+  background-color: black;
+  border: 2px solid #F6CD1D;
+  padding: 5%;
+  
+  
+}
+
+#title {
+  font-family: "League Spartan", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 900;
+  font-style: bold;
+  color: white;
+}
+
+header .btn-primary {
+  transition: all 0.3s ease;
+}
+
+header .btn-primary:hover {
+  background-color: #0069d9;
+  border-color: #0062cc;
+}
+
+
+#Themabuttons .btn.lb:hover {
+  color: white;
+}
+.Qbtn:hover
+{
+  color: white;
+}
+.navbar-nav .nav-item .nav-link {
+  color: #F6CD1D;
+}
+.navbar-toggler
+{
+  border-color: transparent ;
+}
+
+.navbar-brand h1 {
+  margin: 0;
+}
+
+
